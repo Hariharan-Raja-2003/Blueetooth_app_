@@ -1,0 +1,7 @@
+{
+  "name": "Bluetooth Controller",
+  "description": "A high-performance remote controller interface that sends numeric values to connected Bluetooth Low Energy (BLE) devices, featuring a grid-based UI inspired by professional industrial controllers.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
